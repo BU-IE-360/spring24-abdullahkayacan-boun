@@ -29,4 +29,4 @@ You don't need to link your source codes unless asked. Your code should be visib
 
 
 
-[link to my journal](https://bu-ie-360.github.io/spring24-abdullahkayacan-boun/): This is the link you need to provide in the Google Forms.
+[link to my journal](https://bu-ie-360.github.io/spring24-abdullahkayacan-boun/): This is the link you need to provide for HW0.
