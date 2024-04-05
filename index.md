@@ -10,7 +10,7 @@ Please check the links by clicking on them.
 
 
 * [Correct Example 1](https://bu-ie-360.github.io/spring24-abdullahkayacan-boun/IE360_Spring24_Syllabus.pdf): The .pdf file is in the same location with your index file.
-* [Correct Example 2](https://bu-ie-360.github.io/spring24-abdullahkayacan-boun/files/How%20to%20export%20your%20work%20as%20an%20HTML%20file.pdf): The .html file is in a folder called files and this folder is in the same location with your index file.
+* [Correct Example 2](https://bu-ie-360.github.io/spring24-abdullahkayacan-boun/files/R_Markdown_Example_in_RStudio.html): The .html file is in a folder called files and this folder is in the same location with your index file.
 
 * [Correct Example 3](IE360_Spring24_Syllabus.pdf): You can use the path and the file name only.
 
